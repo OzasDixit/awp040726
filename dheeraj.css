@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    color:brown;
+    text-align: center;
+}
+
+P{
+    color:darkred;
+    font-size: 18pc;
+    line-height: 1.6;
+}
